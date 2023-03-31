@@ -1,0 +1,13 @@
+.kup {
+
+    background-color: #44446f;
+    color: white;
+    border: 2px solid yellow;
+    padding: 15px;
+    border-radius: 10px;
+}
+
+.bought {
+    background-color: green;
+    border: 2px solid blue;
+}
